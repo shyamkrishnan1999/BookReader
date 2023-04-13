@@ -1,0 +1,36 @@
+###########################
+#############
+##########
+
+Main class: BookReader
+
+contains three methods reader,read_pages and writer in addition to __init__ method.
+
+__init__  initializes the class and takes in the list of file names and excluded words list.
+
+reader method is used to get the unique set of words in each page.
+
+read_pages is used to check for all words in the list of files and create the index.
+
+writer method is used to write back the results to a file (index2.txt).
+
+methods
+
+1. reader: 
+
+arguments-file_name, name of the file to be read.
+returns- set containing unique words in a file
+
+2. read_pages:
+
+arguments: none
+returns- index which is a dictionary sorted alphabetically 
+
+3 writer:
+
+arguments: none
+returns: none
+
+
+
+
