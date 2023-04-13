@@ -1,4 +1,4 @@
-Write a program in Java which will read the pages of a book and create an index of words giving the list of pages on which each word is present.
+Write a program in Java/Python/Node JS which will read the pages of a book and create an index of words giving the list of pages on which each word is present.
 
 Test data :
 There are 3 files Page1.txt, Page2.txt and Page3.txt containing some text. The file exclude-words.txt contains common words like 'and' which should not be indexed.
